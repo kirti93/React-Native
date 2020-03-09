@@ -1,0 +1,6 @@
+node modules
+dist
+.cache
+public/firebase.js
+package-lock.json
+
